@@ -3027,6 +3027,9 @@ libzmq3-dev:
   ubuntu: [libzmq3-dev]
 libzmqpp3:
   ubuntu: [libzmqpp3]
+linux-headers:
+  debian: [linux-headers]
+  ubuntu: [linux-headers]
 linux-headers-generic:
   arch: [linux-headers]
   debian:
